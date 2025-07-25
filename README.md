@@ -98,4 +98,38 @@ Open index.html in your browser
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauryakapoor15&repo=Tic-Tac-Toe-multi-round-game&theme=dark&hide_border=false&layout=compact" height="180" width="400" />
 </p>
 
+## 🙌 Credits
+
+<details>
+  <summary><strong>👨‍💻 Creator</strong></summary>
+
+- **Name:** Saurya Kapoor  
+- **Role:** Frontend Developer | Telegram Bot Developer  
+- **Skills:** HTML, CSS, JavaScript, Python (Telethon)  
+- **LinkedIn:** [linkedin.com/in/saurya11253v](https://linkedin.com/in/saurya11253v/)  
+- **Email:** [saurya11253v@gmail.com](mailto:saurya11253v@gmail.com)  
+- **GitHub:** [github.com/sauryakapoor15](https://github.com/sauryakapoor15)
+
+</details>
+
+<details>
+  <summary><strong>🖼️ Libraries & Resources Used</strong></summary>
+
+- [`html2canvas`](https://html2canvas.hertzen.com/) – For screenshot capture  
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) – Language usage card  
+- Custom CSS – For glowing neon styling and board layout  
+- Vanilla JavaScript – For game logic, events, and state tracking  
+
+</details>
+
+<details>
+  <summary><strong>🔖 Special Thanks</strong></summary>
+
+- Open-source community for tools and inspiration  
+- Everyone who played, tested, or shared this game 🙌  
+- Future contributors and collaborators  
+
+</details>
+
+> “Built with 💙 and curiosity.”
 
