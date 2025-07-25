@@ -3,11 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0FF&width=500&lines=Welcome+to+Neon+Tic+Tac+Toe!;Created+with+💙+by+Saurya+Kapoor;" alt="Typing SVG">
 </p>
+   <img src="Resources/proof-tictactoe.png" alt="Portfolio Screenshot" width="90%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/sauryakapoor15/Tic-Tac-Toe-multi-round-game?style=flat-square&color=0ff" />
-  <img src="https://img.shields.io/github/last-commit/sauryakapoor15/Tic-Tac-Toe-multi-round-game?style=flat-square&color=0ff" />
-  <img src="https://img.shields.io/github/license/sauryakapoor15/Tic-Tac-Toe-multi-round-game?style=flat-square&color=0ff" />
+    <a href="https://github.com/sauryakapoor15/Tic-Tac-Toe-multi-round-game"> <img src="https://img.shields.io/github/repo-size/sauryakapoor15/Tic-Tac-Toe-multi-round-game?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/Tic-Tac-Toe-multi-round-game/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/sauryakapoor15/Tic-Tac-Toe-multi-round-game?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/Tic-Tac-Toe-multi-round-game/issues"> <img src="https://img.shields.io/github/issues/sauryakapoor15/Tic-Tac-Toe-multi-round-game?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/Tic-Tac-Toe-multi-round-game/network/members"> <img src="https://img.shields.io/github/forks/sauryakapoor15/Tic-Tac-Toe-multi-round-game?color=red&logo=github&logoColor=green&style=for-the-badge" /></a> 
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
