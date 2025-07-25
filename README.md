@@ -89,3 +89,13 @@ cd Tic-Tac-Toe-multi-round-game
 
 # Open the game
 Open index.html in your browser
+```
+
+ 
+# 📊 Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauryakapoor15&repo=Tic-Tac-Toe-multi-round-game&theme=dark&hide_border=false&layout=compact" height="180" width="400" />
+</p>
+
+
