@@ -72,7 +72,7 @@ Perfect for learning DOM manipulation, UI design, and basic game logic!
 ### 🎮 Game Board
 > _Neon-themed board during gameplay with scoreboard and controls_
 
-![Gameplay](https://raw.githubusercontent.com/your-username/neon-tic-tac-toe/main/assets/screenshot.png) <!-- Replace with actual image path -->
+<img src="Resources/proof-tictactoe.png" alt="Portfolio Screenshot" width="100%"/>
 
 ---
 
@@ -80,10 +80,10 @@ Perfect for learning DOM manipulation, UI design, and basic game logic!
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/neon-tic-tac-toe.git
+git clone https://github.com/sauryakapoor15/Tic-Tac-Toe-multi-round-game.git
 
 # Navigate to project folder
-cd neon-tic-tac-toe
+cd Tic-Tac-Toe-multi-round-game
 
 # Open the game
 Open index.html in your browser
