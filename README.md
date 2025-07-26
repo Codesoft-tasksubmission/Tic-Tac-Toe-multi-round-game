@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=0FF&width=500&lines=Welcome+to+Neon+Tic+Tac+Toe!;Created+with+💙+by+Saurya+Kapoor;" alt="Typing SVG">
 </p>
-   <img src="Resources/proof-tictactoe.png" alt="Portfolio Screenshot" width="90%"/>
+   <img src="Resources/proof-tictactoe.png" alt="Portfolio Screenshot" , align = "center", width="90%"/>
 
 <p align="center">
     <a href="https://github.com/sauryakapoor15/Tic-Tac-Toe-multi-round-game"> <img src="https://img.shields.io/github/repo-size/sauryakapoor15/Tic-Tac-Toe-multi-round-game?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
